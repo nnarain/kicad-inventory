@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADC101C021CIMK
+D IC ADC 10BIT SAR TSOT23-6
+K ADC
+F https://www.ti.com/lit/ds/symlink/adc101c021.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1615057529291
+$ENDCMP
+#
+#End Doc Library
