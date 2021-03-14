@@ -6,4 +6,9 @@ K linear regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
 #
+$CMP MIC29310-5.0
+D 5V, 3A LDO
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic29310.pdf
+$ENDCMP
+#
 #End Doc Library
