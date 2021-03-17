@@ -6,11 +6,6 @@ K linear regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
 #
-$CMP MIC29300-12
-D 12V, 3A, LDO
-F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC2915x-30x-50x-75x-High-Current-Low-Dropout-Regulators-DS20005685B.pdf
-$ENDCMP
-#
 $CMP MIC29310-5.0
 D 5V, 3A LDO
 F https://ww1.microchip.com/downloads/en/DeviceDoc/mic29310.pdf
