@@ -29,4 +29,9 @@
   (pad "8" smd rect (at 0.763 0.5) (size 0.275 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7b9fe427-757d-46dc-91f7-fd85be80dcc5))
   (pad "9" smd rect (at 0.763 0) (size 0.275 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1618814f-0505-4c75-87a3-5639a90ae5f7))
   (pad "10" smd rect (at 0.763 -0.5) (size 0.275 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d32cc096-740c-442c-84ac-39c08c94919c))
+  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-12_2x2mm_P0.5mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
